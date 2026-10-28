@@ -8,6 +8,8 @@ st.write("This is plain text using st.write()")
 # ── Markdown: formatted text ────────────────────────────
 # st.markdown() lets you use standard Markdown syntax
 st.markdown("---")   # horizontal line
+st.markdown("---")   # horizontal line
+
 
 st.markdown("## This is a Markdown Header")
 st.markdown("*This text is bold*")
